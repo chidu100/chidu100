@@ -7,7 +7,7 @@ Software developer
 I have been learning how to code for over 3 year ago. I started with HTML, CSS, and JAVASCRIPT. I am currently learning Javascript. I have also garnered knowledge of Soft and technical skills. I'm passionate about sharing knowledge, documentation, web engineering, and others; building useful open-source projects, speaking at some meetups/conferences, build technical communities
 
 * 🌍  I'm based in Lagos, Nigeria 🇳🇬
-* ✉️  You can contact me at [blackjame6@gmail.com](mailto:blackjame6@gmail.com)
+* ✉️  You can contact me at [blackjame6@gmail.com](mailto:anusiemchidubem@gmail.com)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on I'm open to collaborating and I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
