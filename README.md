@@ -17,9 +17,9 @@ I am a frontend developer who is passionate about growth and development. I have
 
 ## GitHub Stats & Graph
 
-![Anusiem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chidu100&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chidu100&layout=compact&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=chidu100&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Anusiem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chidu100&show_icons=true&&theme=vue-dark&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chidu100&layout=compact&hide_border=true&theme=vue-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=chidu100&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=vue-dark)
 
 
 ![GitHub User's stars](https://img.shields.io/github/stars/chidu100?style=social)
