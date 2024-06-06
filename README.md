@@ -4,13 +4,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer
 ------------------
 
-I have been learning how to code for over 3 year ago. I started with HTML, CSS, and JAVASCRIPT. I am currently learning Javascript. I have also garnered knowledge of Soft and technical skills. I'm passionate about sharing knowledge, documentation, web engineering, and others; building useful open-source projects, speaking at some meetups/conferences, build technical communities
+I am a frontend developer who is passionate about growth and development. I have a keen interest in creating visually appealing and highly functional web applications. My journey in frontend development has equipped me with a robust set of skills and tools that enable me to bring designs to life and create seamless user experiences.
 
-* 🌍  I'm based in Lagos, Nigeria 🇳🇬
-* ✉️  You can contact me at [anusiemchidubem@gmail.com](mailto:anusiemchidubem@gmail.com)
-* 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on I'm open to collaborating and I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+### A Little More About Me
 
+- 🔭 I’m currently working on enhancing my skills in modern frontend frameworks.
+- 🌱 I’m constantly learning new technologies and improving my existing skills.
+- 👯 I’m looking to collaborate on exciting web development projects.
+- 💬 Ask me about anything related to frontend development, I’m happy to help!
+- 📫 How to reach me: [anusiemchidubem@gmail.com](mailto:anusiemchidubem@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anusiem-chidubem/).
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful, and intuitive designs.
+
+## GitHub Stats & Graph
+
+![Anusiem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chidu100&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chidu100&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=chidu100&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+
+![GitHub User's stars](https://img.shields.io/github/stars/chidu100?style=social)
 <a href="https://www.github.com/chidu100 " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chidu100 ?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/chidu_hundred" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/chidu_hundred?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
@@ -48,17 +60,7 @@ src="https://img.shields.io/twitter/follow/chidu_hundred?logo=twitter&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/chidu100" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/anusiem.sincleair?mibextid=ZbWKwL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/chidu100 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chidu_hundredz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anusiem-chidubem-9b322b212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/chidu100" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chidu_hundred" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/chidu100 "><img src="https://github-readme-streak-stats.herokuapp.com/?user=chidu100 &stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/chidu100 "><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chidu100 &bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/chidu100 " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidu100 &langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> <a href="https://www.codepen.io/chidu100" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32"/></a> <a href="https://www.facebook.com/anusiem.sincleair?mibextid=ZbWKwL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/chidu100 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chidu_hundredz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anusiem-chidubem-9b322b212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/chidu100" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chidu_hundred" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Support Me
 
